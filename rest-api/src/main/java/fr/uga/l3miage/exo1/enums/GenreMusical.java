@@ -1,9 +1,8 @@
 package fr.uga.l3miage.exo1.enums;
 
 public enum GenreMusical {
-    RANDB,
+    RandB,
     RAP,
-
     SLAM,
     VARIETY,
     CLASSIC
